@@ -24,7 +24,7 @@
     "url": "https://github.com/shubh34/eslint-config-web-react/issues"
   },
   "homepage": "https://github.com/shubh34/eslint-config-web-react#readme",
-  "peerDependencies": {
+  "dependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.9.0",
     "eslint-config-airbnb": "^17.1.0",
