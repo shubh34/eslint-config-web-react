@@ -15,7 +15,8 @@
     "eslint-airbnb",
     "react",
     "eslint-react",
-    "shubham-react"
+    "javascript",
+    "lint"
   ],
   "author": "Shubham",
   "license": "ISC",
@@ -23,12 +24,13 @@
     "url": "https://github.com/shubh34/eslint-config-web-react/issues"
   },
   "homepage": "https://github.com/shubh34/eslint-config-web-react#readme",
-  "dependencies": {
+  "peerDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.9.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
-    "eslint-plugin-react": "^7.11.1"
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-watch": "^4.0.2"
   }
 }
