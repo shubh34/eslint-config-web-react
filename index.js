@@ -7,5 +7,7 @@ module.exports = {
             modules: true
         }
     },
-    rules: {}
+    rules: {
+        "react/jsx-filename-extension": 0,
+    }
 };
