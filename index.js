@@ -1,7 +1,7 @@
 module.exports = {
     extends: 'airbnb',
-    parser: "babel-eslint",
-    parserOptions: {
+    "parser": "babel-eslint",
+    "parserOptions": {
         ecmaFeatures: {
             jsx: true,
             modules: true
