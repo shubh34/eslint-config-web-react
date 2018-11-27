@@ -1,5 +1,5 @@
 {
-  "name": "init",
+  "name": "eslint-web-react",
   "version": "0.1.0",
   "description": "Eslint configuration for react app",
   "main": "index.js",

@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
     extends: 'airbnb',
-    rules: []
-}
+    rules: {}
+};
