@@ -7,6 +7,10 @@ module.exports = {
             modules: true
         }
     },
+    "env": {
+        "jest": true,
+        "browser": true
+    },
     rules: {
         "react/jsx-filename-extension": 0,
         "no-shadow":0,
