@@ -19,7 +19,7 @@ module.exports = {
         'import/no-extraneous-dependencies': 0,
         indent: [2, 'tab'],
         "no-trailing-spaces": "error",
-        "eol-last": ["error", "always"]
-     
+        "eol-last": ["error", "always"],
+        'no-tabs': 0 
     }
 };
