@@ -15,6 +15,8 @@ module.exports = {
         "react/jsx-filename-extension": 0,
         "no-shadow":0,
         'import/no-extraneous-dependencies': 0,
-        "indent": ["error", 4]
+        "indent": ["error", 4],
+        "no-trailing-spaces": "error",
+        "eol-last": ["error", "always"]
     }
 };
