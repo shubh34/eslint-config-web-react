@@ -17,7 +17,7 @@ module.exports = {
 		'react/jsx-indent-props': [2, 'tab'],
         "no-shadow":0,
         'import/no-extraneous-dependencies': 0,
-        "indent": ["error", 2, "tab"],
+        indent: [2, 'tab'],
         "no-trailing-spaces": "error",
         "eol-last": ["error", "always"]
      
